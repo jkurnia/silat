@@ -164,7 +164,7 @@ Home
 
         <div class="row">
             <div class="col-lg-6">
-                <p>Silat Virginia provides focused martial arts instruction for children and adults in a fun and safe environment. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
+                <p>Silat Virginia provides Indonesian martial arts instruction for children and adults in a fun and safe environment. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
                 <p>Our students develop:</p>
                 <ul>
                     <li>Self-discipline</li>
