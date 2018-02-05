@@ -182,11 +182,11 @@ Home
 
         <!-- Call to Action Section -->
         <div class="row mb-4">
-            <div class="col-md-8">
+            <div class="col-md-6">
                 <p>Give us a call to learn more and schedule a free trial class.</p>
             </div>
-            <div class="col-md-4">
-                <a class="btn btn-lg btn-secondary btn-block" href="tel:703-937-7132">Call to schedule a free class</a>
+            <div class="col-md-6">
+                <a class="btn btn-lg btn-secondary btn-block" href="tel:703-937-7132">Call 703-937-7132 for a free class</a>
             </div>
         </div>
 
