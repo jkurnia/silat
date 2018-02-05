@@ -15,20 +15,26 @@ Home
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active" style="background-image: url('/assets/images/punch.jpg'); background-position: top;">
                     <div class="carousel-caption d-none d-md-block">
+                        <!--
                         <h3>First Slide</h3>
                         <p>This is a description for the first slide.</p>
+                        -->
                     </div>
                 </div>
                 <div class="carousel-item" style="background-image: url('/assets/images/kick.jpg'); background-position: top;">
                     <div class="carousel-caption d-none d-md-block">
+                        <!--
                         <h3>Second Slide</h3>
                         <p>This is a description for the second slide.</p>
+                        -->
                     </div>
                 </div>
                 <div class="carousel-item" style="background-image: url('/assets/images/sarung.jpg'); background-position: top;">
                     <div class="carousel-caption d-none d-md-block">
+                        <!--
                         <h3>Third Slide</h3>
                         <p>This is a description for the third slide.</p>
+                        -->
                     </div>
                 </div>
             </div>
@@ -46,9 +52,8 @@ Home
     <!-- Page Content -->
     <div class="container">
 
-        <h1 class="my-4">Welcome to Modern Business</h1>
-
-        <!-- Marketing Icons Section -->
+        <h1 class="my-4">Martial arts for kids and adults</h1>
+<!--
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="card h-100">
@@ -84,9 +89,7 @@ Home
                 </div>
             </div>
         </div>
-        <!-- /.row -->
 
-        <!-- Portfolio Section -->
         <h2>Portfolio Heading</h2>
 
         <div class="row">
@@ -157,9 +160,7 @@ Home
                 </div>
             </div>
         </div>
-        <!-- /.row -->
 
-        <!-- Features Section -->
         <div class="row">
             <div class="col-lg-6">
                 <h2>Modern Business Features</h2>
@@ -179,17 +180,16 @@ Home
                 <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
             </div>
         </div>
-        <!-- /.row -->
-
+-->
         <hr>
 
         <!-- Call to Action Section -->
         <div class="row mb-4">
             <div class="col-md-8">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
+                <p>Silat Virginia provides focused martial arts instruction for children and adults. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
             </div>
             <div class="col-md-4">
-                <a class="btn btn-lg btn-secondary btn-block" href="#">Call to Action</a>
+                <a class="btn btn-lg btn-secondary btn-block" href="#">Try a class for free</a>
             </div>
         </div>
 
