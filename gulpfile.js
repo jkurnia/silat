@@ -1,16 +1,41 @@
-var elixir = require('laravel-elixir');
+var gulp = require('gulp');
+var browserSync = require('browser-sync').create();
+var pkg = require('./package.json');
 
-/*
- |--------------------------------------------------------------------------
- | Elixir Asset Management
- |--------------------------------------------------------------------------
- |
- | Elixir provides a clean, fluent API for defining some basic Gulp tasks
- | for your Laravel application. By default, we are compiling the Sass
- | file for our application, as well as publishing vendor resources.
- |
- */
+// Copy third party libraries from /node_modules into /vendor
+gulp.task('vendor', function() {
 
-elixir(function(mix) {
-    mix.sass('app.scss');
+  // Bootstrap
+  gulp.src([
+      './node_modules/bootstrap/dist/**/*',
+      '!./node_modules/bootstrap/dist/css/bootstrap-grid*',
+      '!./node_modules/bootstrap/dist/css/bootstrap-reboot*'
+    ])
+    .pipe(gulp.dest('./vendor/bootstrap'))
+
+  // jQuery
+  gulp.src([
+      './node_modules/jquery/dist/*',
+      '!./node_modules/jquery/dist/core.js'
+    ])
+    .pipe(gulp.dest('./vendor/jquery'))
+
+})
+
+// Default task
+gulp.task('default', ['vendor']);
+
+// Configure the browserSync task
+gulp.task('browserSync', function() {
+  browserSync.init({
+    server: {
+      baseDir: "./"
+    }
+  });
+});
+
+// Dev task
+gulp.task('dev', ['browserSync'], function() {
+  gulp.watch('./css/*.css', browserSync.reload);
+  gulp.watch('./*.html', browserSync.reload);
 });
