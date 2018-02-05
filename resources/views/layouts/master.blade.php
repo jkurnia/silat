@@ -11,7 +11,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/favicon.ico?v=2">
 
-        <title>Silat | @yield('page-title')</title>
+        <title>Silat Virginia | @yield('page-title')</title>
 
         <!-- Bootstrap core CSS -->
         <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">

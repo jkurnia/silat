@@ -160,36 +160,33 @@ Home
                 </div>
             </div>
         </div>
+-->
 
         <div class="row">
             <div class="col-lg-6">
-                <h2>Modern Business Features</h2>
-                <p>The Modern Business template by Start Bootstrap includes:</p>
+                <p>Silat Virginia provides focused martial arts instruction for children and adults in a fun and safe environment. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
+                <p>Our students develop:</p>
                 <ul>
-                    <li>
-                        <strong>Bootstrap v4</strong>
-                    </li>
-                    <li>jQuery</li>
-                    <li>Font Awesome</li>
-                    <li>Working contact form with validation</li>
-                    <li>Unstyled page elements for easy customization</li>
+                    <li>Self-discipline</li>
+                    <li>Confidence</li>
+                    <li>Defense against bullies</li>
+                    <li>Determination</li>
                 </ul>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                <p>Our head instructor, Terra Kurnia, has been practicing martial arts for over forty years and has been teaching in Virginia for over a decade.  He is a world title holder in forms, weapons, sparring and breaking.</p>
             </div>
             <div class="col-lg-6">
-                <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+                <img class="img-fluid rounded" src="{{ asset('assets/images/instructor.jpg') }}" alt="">
             </div>
         </div>
--->
         <hr>
 
         <!-- Call to Action Section -->
         <div class="row mb-4">
             <div class="col-md-8">
-                <p>Silat Virginia provides focused martial arts instruction for children and adults. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
+                <p>Give us a call to learn more and schedule a free trial class.</p>
             </div>
             <div class="col-md-4">
-                <a class="btn btn-lg btn-secondary btn-block" href="#">Try a class for free</a>
+                <a class="btn btn-lg btn-secondary btn-block" href="tel:703-937-7132">Call to schedule a free class</a>
             </div>
         </div>
 
