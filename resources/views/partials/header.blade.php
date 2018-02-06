@@ -3,7 +3,7 @@
         <a class="navbar-brand" href="index.html">Silat Virginia</a>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="tel:703-937-7132"><i class="fa fa-phone"></i> 703-937-7132</a>
+                <a class="nav-link" href="mailto:info@silatvirginia.com"><i class="fa fa-envelope"></i> info@silatvirginia.com</a>
             </li>
         </ul>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

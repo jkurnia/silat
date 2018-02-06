@@ -183,10 +183,10 @@ Home
         <!-- Call to Action Section -->
         <div class="row mb-4">
             <div class="col-md-6">
-                <p>Give us a call to learn more and schedule a free trial class.</p>
+                <p>Email us to learn more and schedule a free trial class.</p>
             </div>
             <div class="col-md-6">
-                <a class="btn btn-lg btn-secondary btn-block" href="tel:703-937-7132">Call 703-937-7132 for a free class</a>
+                <a class="btn btn-lg btn-secondary btn-block" href="mailto:info@silatvirginia.com">Schedule a free class</a>
             </div>
         </div>
 
