@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba4e154c-a042-46e0-b39f-f34ad1f64f81" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/instructors.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/instructors.blade.php" />
     </list>
     <ignored path="silat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,17 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
+      <file leaf-file-name="instructors.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/pages/instructors.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4" vertical-offset="165" max-vertical-offset="3195">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
-              <folding>
-                <element signature="e#794#878#0#HTML" expanded="true" />
-                <element signature="e#1218#1301#0#HTML" expanded="true" />
-                <element signature="e#2068#2157#0#HTML" expanded="true" />
-                <element signature="e#2321#2405#0#HTML" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.56" vertical-offset="90" max-vertical-offset="765">
+              <caret line="20" column="591" selection-start-line="20" selection-start-column="591" selection-end-line="20" selection-end-column="591" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,8 +54,8 @@
         <option value="$PROJECT_DIR$/resources/views/pages/about.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/schedule.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/contact.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/pages/instructors.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/instructors.blade.php" />
       </list>
     </option>
   </component>
@@ -478,14 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/pages/instructors.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56" vertical-offset="120" max-vertical-offset="765">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4" vertical-offset="165" max-vertical-offset="3195">
@@ -496,6 +482,14 @@
             <element signature="e#2068#2157#0#HTML" expanded="true" />
             <element signature="e#2321#2405#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/instructors.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56" vertical-offset="90" max-vertical-offset="765">
+          <caret line="20" column="591" selection-start-line="20" selection-start-column="591" selection-end-line="20" selection-end-column="591" />
+          <folding />
         </state>
       </provider>
     </entry>
