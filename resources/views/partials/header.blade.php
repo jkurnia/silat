@@ -1,6 +1,6 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Silat Virginia</a>
+        <a class="navbar-brand" href="{{ route('home') }}">Silat Virginia</a>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
                 <a class="nav-link" href="mailto:info@silatvirginia.com"><i class="fa fa-envelope"></i> info@silatvirginia.com</a>

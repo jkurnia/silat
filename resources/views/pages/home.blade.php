@@ -52,7 +52,7 @@ Home
     <!-- Page Content -->
     <div class="container">
 
-        <h1 class="my-4">Martial arts for kids and adults</h1>
+        <h1 class="my-4">Silat martial arts for kids and adults</h1>
 <!--
         <div class="row">
             <div class="col-lg-4 mb-4">
@@ -164,15 +164,16 @@ Home
 
         <div class="row">
             <div class="col-lg-6">
-                <p>Silat Virginia provides Indonesian martial arts instruction for children and adults in a fun and safe environment. We emphasize discipline and respect for others, to be courteous and to be a role model in the society.</p>
-                <p>Our students develop:</p>
+                <p>Silat Virginia provides Pencak Silat Indonesian martial arts instruction for children and adults in a fun and safe environment. We emphasize noble character and conduct.  Our students develop:</p>
                 <ul>
-                    <li>Self-discipline</li>
+                    <li>Physical fitness</li>
+                    <li>Discipline</li>
+                    <li>Respect for others</li>
                     <li>Confidence</li>
                     <li>Defense against bullies</li>
                     <li>Determination</li>
                 </ul>
-                <p>Our head instructor, Terra Kurnia, has been practicing martial arts for over forty years and has been teaching in Virginia for over a decade.  He is a world title holder in forms, weapons, sparring and breaking.</p>
+                <p>Our head instructor, Terra Kurnia, has been practicing martial arts for over forty years and has been teaching in Virginia for over a decade.  He has won many championships in forms, weapons, sparring and breaking in internationally recognized tournaments.</p>
             </div>
             <div class="col-lg-6">
                 <img class="img-fluid rounded" src="{{ asset('assets/images/instructor.jpg') }}" alt="">
