@@ -12,16 +12,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="{{ route('about') }}">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">Instructors</a>
+                    <a class="nav-link" href="{{ route('instructors') }}">Instructors</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../../../../../Desktop/startbootstrap-modern-business-gh-pages/services.html">Class Schedule</a>
+                    <a class="nav-link" href="{{ route('schedule') }}">Class Schedule</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link" href="{{ route('contact') }}">Contact</a>
                 </li>
                 <!--
                 <li class="nav-item dropdown">

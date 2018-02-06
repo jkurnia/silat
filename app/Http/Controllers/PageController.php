@@ -17,4 +17,24 @@ class PageController extends BaseController
     {
         return View::make('pages.home');
     }
+
+    public function getAbout()
+    {
+        return View::make('pages.about');
+    }
+
+    public function getInstructors()
+    {
+        return View::make('pages.instructors');
+    }
+
+    public function getSchedule()
+    {
+        return View::make('pages.schedule');
+    }
+
+    public function getContact()
+    {
+        return View::make('pages.contact');
+    }
 }
