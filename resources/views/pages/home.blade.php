@@ -37,6 +37,14 @@ Home
                         -->
                     </div>
                 </div>
+                <div class="carousel-item" style="background-image: url('/assets/images/kuda2badak.jpg'); background-position: top;">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('/assets/images/split.jpg'); background-position: top;">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
