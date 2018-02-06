@@ -27,7 +27,7 @@ About
             </div>
             <div class="col-lg-6">
                 <h2>About our school</h2>
-                <p>Pencak Silat (pronounced PUN-chah SEE-laht) or Silat is an Indonesian martial art known for its beauty, fluidity and fighting efficacy. It is an exceptionally rich martial arts tradition, with hundreds of styles practiced throughout the Indonesian archipelago. Many of its techniques are inspired by the movements of animals such as the tiger, eagle, monkey and snake.  Silat training encompasses four dimensions:</p>
+                <p>Pencak Silat (pronounced PUNN-chah SEE-laht) or Silat is an Indonesian martial art known for its beauty, fluidity and fighting efficacy. It is an exceptionally rich martial arts tradition, with hundreds of styles practiced throughout the Indonesian archipelago. Many of its techniques are inspired by the movements of animals such as the tiger, eagle, monkey and snake.  Silat training encompasses four dimensions:</p>
                 <ul>
                     <li>Self defense: practical application of self-defense techniques</li>
                     <li>Art: culture and artistic performances of traditional forms</li>
