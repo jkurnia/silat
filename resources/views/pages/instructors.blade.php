@@ -17,8 +17,8 @@ Instructors
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Terra Kurnia</h3>
-                <p>Kak Terra has been practicing silat since he was 10 years old. He currently is the first full-time instructor focused on developing the youth program. He has taught hundreds of youth and has helped establish the Virginia school. Kak Terra specializes in the Bunga or artistic aspects of Silat and has won many first place trophies in forms division as well as World Champion in breaking. His remarkable flexibility and agility has encouraged many students to also excel in these areas, which is especially important in the art of Pencak Silat. He has a good relationship with many of the local karate tournament promoters. His cheerful and soft personality makes him a favorite for many of the children studying Silat. Kak Terra dedication to Pencak Silat is remarkable as he dedicated his entire time to development and promotion of Pencak Silat in the USA.</p>
+                <h3>Terra Kurnia, Head Instructor</h3>
+                <p>Kak Terra comes from a family of Silat masters and began practicing Silat in Indonesia when he was four years old. He has taught hundreds of youth and helped establish the teaching of Silat in the northern Virginia and DC area. Kak Terra specializes in the Bunga or artistic aspects of Silat and has won many first place trophies in forms division as well as World Champion in breaking. His remarkable flexibility and agility has encouraged many students to also excel in these areas, which is especially important in the art of Pencak Silat. He has a good relationship with many of the local martial arts tournament promoters. His cheerful and fun-loving personality makes him a favorite with the children studying Silat.</p>
             </div>
         </div>
         <!-- /.row -->
@@ -34,7 +34,7 @@ Instructors
             </div>
             <div class="col-md-5">
                 <h3>Julia Kurnia</h3>
-                <p>Julia has been practicing martial arts for over a decade.  In addition to Silat, she has trained in Tae Kwon Do, MMA, Aikido and Systema.  Julia teaches women's classes for teenagers and adults.</p>
+                <p>Kak Julia has been practicing martial arts for over a decade.  In addition to Silat, she has trained in Tae Kwon Do, MMA, Aikido and Systema.  Julia teaches women's classes for teenagers and adults.</p>
             </div>
         </div>
         <!-- /.row -->
