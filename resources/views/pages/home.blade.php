@@ -12,7 +12,6 @@ Home
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active" style="background-image: url('/assets/images/punch.jpg'); background-position: top;">
@@ -40,10 +39,6 @@ Home
                     </div>
                 </div>
                 <div class="carousel-item" style="background-image: url('/assets/images/kuda2badak.jpg'); background-position: top;">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('/assets/images/split.jpg'); background-position: top;">
                     <div class="carousel-caption d-none d-md-block">
                     </div>
                 </div>
