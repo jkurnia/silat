@@ -8,7 +8,7 @@ About
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <h1 class="mt-4 mb-3">About
+        <h1 class="mt-4 mb-3">About Our School
         </h1>
 
         <!--
@@ -26,7 +26,9 @@ About
                 <img class="img-fluid rounded mb-4" src="{{ asset('assets/images/trophies.jpg') }}" style="image-orientation: from-image">
             </div>
             <div class="col-lg-6">
+                <!--
                 <h2>About our school</h2>
+                -->
                 <p>Pencak Silat (pronounced PUNN-chah SEE-laht) or Silat is an Indonesian martial art known for its beauty, fluidity and fighting efficacy. It is an exceptionally rich martial arts tradition, with hundreds of styles practiced throughout the Indonesian archipelago. Many of its techniques are inspired by the movements of animals such as the tiger, eagle, monkey and snake.  Silat training encompasses four dimensions:</p>
                 <ul>
                     <li>Self defense: practical application of self-defense techniques</li>
