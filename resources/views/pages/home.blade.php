@@ -57,7 +57,7 @@ Home
     <!-- Page Content -->
     <div class="container">
 
-        <h1 class="my-4">Silat martial arts for kids and adults</h1>
+        <h1 class="my-4">Silat Martial Arts for Kids and Adults</h1>
 <!--
         <div class="row">
             <div class="col-lg-4 mb-4">
