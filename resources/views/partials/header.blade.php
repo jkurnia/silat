@@ -23,6 +23,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('contact') }}">Contact</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.facebook.com/Silat-Virginia-403909216717317/"><i class="fa fa-facebook-square" style="font-size:25px"></i></a>
+                </li>
                 <!--
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
