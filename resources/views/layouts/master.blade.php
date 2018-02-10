@@ -11,7 +11,7 @@
         <title>Silat Virginia | @yield('page-title')</title>
 
         <!-- Bootstrap core CSS -->
-        <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}?q=1" rel="stylesheet">
 
         <!-- Custom styles for this template -->
         <link href="{{ asset('assets/css/modern-business.css') }}?q=1" rel="stylesheet">
