@@ -9,7 +9,7 @@
         <meta property="og:image:width" content="300"/>
         <meta property="og:image:height" content="217"/>
         <meta name="author" content="">
-        <link rel="shortcut icon" href="/favicon.ico?v=2">
+        <link rel="shortcut icon" href="/favicon.ico">
 
         <title>Silat Virginia | @yield('page-title')</title>
 
