@@ -4,10 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="@yield('page-description')">
-        <meta property="og:image" content="@yield('page-image')">
-        <meta property="og:image:width" content="300"/>
-        <meta property="og:image:height" content="217"/>
+        <meta name="description" content="Silat Virginia provides Pencak Silat Indonesian martial arts instruction for children and adults in a fun and safe environment. Learn more and schedule a free class.">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/favicon.ico">
 
